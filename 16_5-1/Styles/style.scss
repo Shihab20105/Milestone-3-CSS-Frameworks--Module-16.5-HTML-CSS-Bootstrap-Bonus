@@ -1,0 +1,13 @@
+$primary-color: blue;
+h1{
+    color: $primary-color;
+}
+p{
+    background-color: $primary-color;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+}
+ul{
+    border: 2px solid $primary-color;
+}
